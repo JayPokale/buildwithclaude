@@ -3702,6 +3702,32 @@
         "source": "github",
         "repo": "nowork-studio/notfair-plugin"
       }
+    },
+    {
+      "name": "chisle",
+      "description": "Cuts Claude Code's token use on three axes: terse answers that keep every decisive fact, smallest-code-that-works rules, and a PostToolUse hook that trims oversized tool output before it re-enters the context. Benchmarks with raw transcripts, including the runs it loses, are published in the repository.",
+      "version": "3.7.0",
+      "author": {
+        "name": "Jay Pokale",
+        "url": "https://github.com/JayPokale"
+      },
+      "homepage": "https://chisle.jaypokale.me",
+      "repository": "https://github.com/JayPokale/Chisle",
+      "license": "MIT",
+      "keywords": [
+        "token-optimization",
+        "cost",
+        "context",
+        "hooks",
+        "productivity",
+        "yagni"
+      ],
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "JayPokale/Chisle",
+        "sha": "b0fde39bbc2901683d27114071b5954c2799430a"
+      }
     }
   ]
 }
